@@ -1,1 +1,2 @@
-Eric Ianni
+Thomas Wagner
+wagnerth@oregonstate.edu
